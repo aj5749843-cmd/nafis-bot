@@ -1,2 +1,1 @@
-python-telegram-bot>=21
-flask
+python-telegram-bot[webhooks]>=21
